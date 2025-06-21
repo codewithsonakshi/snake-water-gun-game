@@ -1,1 +1,1 @@
-# snake-water-gun-game
+# first game
