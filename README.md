@@ -17,9 +17,4 @@ If both player and computer choose the same, it's a **draw**.
 - Randomized computer moves
 - Score tracking
 
-## ▶️ How to Run
 
-1. Clone this repository:
-
-   ```bash
-   git clone https://github.com/your-username/your-repo-name.git
